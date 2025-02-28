@@ -11,7 +11,7 @@ export default function Home() {
       <section className="mb-12">
         <div className="relative rounded-lg bg-gradient-to-r from-blue-600 to-indigo-700 py-16 px-8 text-white">
           <div className="max-w-xl">
-            <h1 className="mb-4 text-4xl font-bold">Welcome to AuthKit E-commerce</h1>
+            <h1 className="mb-4 text-4xl font-bold">Welcome to QuickPick E-commerce</h1>
             <p className="mb-6 text-lg">
               Discover our wide range of products with seamless shopping experience.
             </p>

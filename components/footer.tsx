@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
               <Package className="h-6 w-6" />
-              <span className="font-bold">AuthKit Shop</span>
+              <span className="font-bold">QuickPick Shop</span>
             </Link>
             <p className="text-sm text-muted-foreground">
               Secure e-commerce platform with advanced authentication features. Shop with confidence and enjoy a
@@ -87,7 +87,7 @@ export default function Footer() {
         <div className="mt-12 border-t pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <p className="text-center text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} AuthKit Shop. All rights reserved.
+              &copy; {new Date().getFullYear()} QuickPick Shop. All rights reserved.
             </p>
             <div className="flex gap-4 text-sm text-muted-foreground">
               <Link href="/terms" className="hover:underline">

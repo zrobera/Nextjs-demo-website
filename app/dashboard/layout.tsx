@@ -64,7 +64,7 @@ export default function DashboardLayout({
           <SidebarHeader className="flex h-14 items-center border-b px-4">
             <Link href="/dashboard" className="flex items-center gap-2 font-semibold">
               <Box className="h-6 w-6" />
-              <span>AuthKit Admin</span>
+              <span>QuickPick Admin</span>
             </Link>
           </SidebarHeader>
           <SidebarContent>

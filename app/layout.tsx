@@ -11,7 +11,7 @@ import { AuthProvider } from "@/components/auth-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AuthKit E-commerce",
+  title: "QuickPick E-commerce",
   description: "A modern e-commerce platform with advanced authentication",
     generator: 'v0.dev'
 }
